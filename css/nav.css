@@ -1,0 +1,45 @@
+*{
+    margin: 0 auto;
+
+}
+
+body{
+    background-image: url(https://i.pinimg.com/564x/2d/34/63/2d3463c4d09b423049d7da978b422ef6.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 50px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
+nav{
+    background-color: rgb(8, 11, 136);
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+a:hover{
+    background-color: white;
+    color: blueviolet;
+}
